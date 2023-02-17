@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "cpuload"
-version = "0.1.0"
-description = ""
-authors = ["Alexey Vyskubov <alexey@hotmail.fi>"]
+version = "1.0.0"
+description = "Python tool to generate CPU load"
+authors = ["Alexey Vyskubov <alexey@ocaml.nl>"]
+readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = "^3.10"
